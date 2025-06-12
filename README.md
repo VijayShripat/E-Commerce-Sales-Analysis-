@@ -47,4 +47,4 @@ The dashboard provides real-time visibility into key performance indicators (KPI
 📁 E-Commerce-Sales-Analysis/
 ├── 📄 README.md                      # Project documentation
 ├── 📁 Source data/                   # CSV/Excel file
-└── 📁 PowerBI_Dashboard images/      # Dashboard screenshot
+└── 📁 PowerBI_Dashboard images/      # Dashboard pdf file
