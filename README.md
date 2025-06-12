@@ -37,5 +37,5 @@ The dashboard provides real-time visibility into key performance indicators (KPI
 - **Power BI (Desktop)**
 - **DAX** for calculated measures
 - **Power Query** for data transformation
-- **Excel/CSV** (assumed as data source)
+- **Excel/CSV** as data source
 
