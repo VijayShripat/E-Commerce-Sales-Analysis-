@@ -10,12 +10,6 @@ The dashboard provides real-time visibility into key performance indicators (KPI
 
 ---
 
-## 📸 Dashboard Preview
-
-![E-Commerce Sales Dashboard](./ecommerce_dashboard_image.png)
-
----
-
 ## 📌 Features
 
 - **KPI Cards:**
@@ -44,3 +38,13 @@ The dashboard provides real-time visibility into key performance indicators (KPI
 - **DAX** for calculated measures
 - **Power Query** for data transformation
 - **Excel/CSV** as data source
+
+---
+
+## 📂 Folder Structure
+
+```plaintext
+📁 E-Commerce-Sales-Analysis/
+├── 📄 README.md                      # Project documentation
+├── 📁 Source data/                   # CSV/Excel file
+└── 📁 PowerBI_Dashboard images/      # Dashboard screenshot
