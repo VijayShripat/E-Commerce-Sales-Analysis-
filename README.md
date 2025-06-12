@@ -1,11 +1,41 @@
-# E-Commerce-Sales-Analysis-
-Power Bi Dashboard Project - E-Commerce Sales Analysis
-Description:
-Developed an interactive Power BI dashboard to analyze and visualize e-commerce sales performance, enabling real-time insights for business decision-making. The dashboard consolidated transactional data to track key performance indicators such as YTD Sales, QTD Sales, Products Sold, and Customer Reviews, along with dynamic visuals for weekly and monthly trends, top-performing products, and sales by product category.
-Key Contributions:
-•	Designed and implemented KPI cards and interactive visualizations to monitor sales and product engagement.
-•	Built drill-through and filter-enabled reports for detailed category and product-level analysis.
-•	Enabled data-driven insights by identifying high-performing products and seasonal sales trends.
-•	Automated data refresh and optimized DAX measures for improved dashboard responsiveness.
+# 📊 E-Commerce Sales Analysis Dashboard | Power BI
 
+This project showcases an interactive Power BI dashboard designed to analyze and visualize e-commerce sales performance, enabling data-driven decision-making for stakeholders.
+
+---
+
+## 🔍 Project Overview
+
+The dashboard provides real-time visibility into key performance indicators (KPIs) and product insights using historical transactional data. It helps identify trends, track performance, and support strategic planning in a retail or e-commerce environment.
+
+---
+
+## 📌 Features
+
+- **KPI Cards:**
+  - 🛒 YTD Sales
+  - 📅 QTD Sales
+  - 📦 YTD Products Sold
+  - 📝 YTD Customer Reviews
+
+- **Visuals:**
+  - 📈 Weekly Sales Trends
+  - 📊 Monthly Sales Overview
+  - 🥇 Top 5 Products by YTD Sales
+  - 🌟 Top 5 Products by YTD Reviews
+  - 🧾 Sales by Product Category (Table)
+
+- **Interactivity:**
+  - Date filters
+  - Drill-through capabilities
+  - Dynamic category filtering
+
+---
+
+## 🛠 Tools & Technologies
+
+- **Power BI (Desktop)**
+- **DAX** for calculated measures
+- **Power Query** for data transformation
+- **Excel/CSV** (assumed as data source)
 
