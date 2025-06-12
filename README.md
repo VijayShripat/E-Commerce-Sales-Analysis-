@@ -7,6 +7,5 @@ Key Contributions:
 •	Built drill-through and filter-enabled reports for detailed category and product-level analysis.
 •	Enabled data-driven insights by identifying high-performing products and seasonal sales trends.
 •	Automated data refresh and optimized DAX measures for improved dashboard responsiveness.
-Tools Used:
-(Power BI, DAX, MS Excel)
+
 
